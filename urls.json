@@ -1,0 +1,305 @@
+{
+    "nes": {
+        "name": "Nintendo Entertainment System",
+        "tags": ["8-bit", "Retro", "Classic", "Nintendo", "Cartridge"],
+        "players": "1-2",
+        "urls": {
+            "url1": {
+                "name": "Nintendo Entertainment System (Headered)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headered%29/"
+            },
+            "url2": {
+                "name": "Nintendo Entertainment System (Headerless)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headerless%29/"
+            }
+        }
+    },
+    "snes": {
+        "name": "Super Nintendo Entertainment System",
+        "tags": ["16-bit", "Retro", "Classic", "Nintendo", "Cartridge"],
+        "players": "1-2",
+        "urls": {
+            "url1": {
+                "name": "Super Nintendo Entertainment System",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/"
+            }
+        }
+    },
+    "n64": {
+        "name": "Nintendo 64",
+        "tags": ["64-bit", "3D", "Classic", "Nintendo", "Cartridge"],
+        "players": "1-4",
+        "urls": {
+            "url1": {
+                "name": "Nintendo 64 (BigEndian)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20%28BigEndian%29/"
+            },
+            "url2": {
+                "name": "Nintendo 64 (ByteSwapped)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20%28ByteSwapped%29/"
+            }
+        }
+    },
+    "gb": {
+        "name": "Game Boy",
+        "tags": ["8-bit", "Handheld", "Retro", "Nintendo", "Monochrome"],
+        "players": "1",
+        "urls": {
+            "url1": {
+                "name": "Game Boy",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/"
+            }
+        }
+    },
+    "gbc": {
+        "name": "Game Boy Color",
+        "tags": ["8-bit", "Handheld", "Color", "Nintendo", "Cartridge"],
+        "players": "1",
+        "urls": {
+            "url1": {
+                "name":"Game Boy Color",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/"
+            }
+        }
+    },
+    "gba": {
+        "name": "Game Boy Advance",
+        "tags": ["32-bit", "Handheld", "Portable", "Nintendo", "Cartridge"],
+        "players": "1-4",
+        "urls": {
+            "url1": {
+                "name": "Game Boy Advance",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/"
+            },
+            "url2": {
+                "name": "Game Boy Advance (Multiboot)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20%28Multiboot%29/"
+            },
+            "url3": {
+                "name": "Game Boy Advance (Play-Yan)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20%28Play-Yan%29/"
+            }
+        }
+    },
+    "ds": {
+        "name": "Nintendo DS",
+        "tags": [
+            "Dual Screen",
+            "Handheld",
+            "Touchscreen",
+            "Nintendo",
+            "Cartridge"
+        ],
+        "players": "1-4",
+        "urls": {
+            "url1": {
+                "name": "Nintendo DS",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Decrypted%29/"
+            },
+            "url2": {
+                "name": "Nintendo DS",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Encrypted%29/"
+            },
+            "url3": {
+                "name": "Nintendo DS (Download Play)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20%28Download%20Play%29/"
+            }
+        }
+    },
+    "dsi": {
+        "name": "Nintendo DSi",
+        "tags": ["Dual Screen", "Handheld", "Camera", "Nintendo", "Cartridge"],
+        "players": "1-4",
+        "urls": {
+            "url1": {
+                "name": "Nintendo DSi",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "digital": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20%28Decrypted%29/"
+            },
+            "url2": {
+                "name": "Nintendo DSi",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": true,
+                "digital": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20%28Encrypted%29/"
+            },
+            "url3": {
+                "name": "Nintendo DSi",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "digital": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20%28Digital%29%20%28CDN%29%20%28Decrypted%29/"
+            },
+            "url4": {
+                "name": "Nintendo DSi",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": true,
+                "digital": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20%28Digital%29%20%28CDN%29%20%28Encrypted%29/"
+            }
+        }
+    },
+    "3ds": {
+        "name": "Nintendo 3DS",
+        "tags": ["3D", "Handheld", "Dual Screen", "Nintendo", "Cartridge"],
+        "players": "1-4",
+        "urls": {
+            "url1": {
+                "name": "Nintendo 3DS",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "digital": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20%28Decrypted%29/"
+            },
+            "url2": {
+                "name": "Nintendo 3DS",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": true,
+                "digital": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20%28Encrypted%29/"
+            },
+            "url3": {
+                "name": "Nintendo 3DS",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "digital": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20%28Digital%29%20%28CDN%29/"
+            },
+            "url4": {
+                "name": "Nintendo 3DS (Dev ROMs)",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "digital": true,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20%28Digital%29%20%28Dev%20ROMs%29/"
+            }
+        }
+    },
+    "n3ds": {
+        "name": "Nintendo New 3DS",
+        "tags": ["3D", "Handheld", "Enhanced", "Nintendo", "Cartridge"],
+        "players": "1-4",
+        "urls": {
+            "url1": {
+                "name": "Nintendo New 3DS",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": false,
+                "digital": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20New%203DS%20%28Decrypted%29/"
+            },
+            "url2": {
+                "name": "Nintendo New 3DS",
+                "provider": "Myrent",
+                "no_intro": true,
+                "encrypted": true,
+                "digital": false,
+                "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20New%203DS%20%28Encrypted%29/"
+            }
+        }
+    },
+    "wii": {
+        "name": "Nintendo Wii",
+        "tags": [
+            "Motion Controls",
+            "Casual",
+            "Multiplayer",
+            "Nintendo",
+            "Disc"
+        ],
+        "players": "1-4"
+    },
+    "wiiu": {
+        "name": "Nintendo Wii U",
+        "tags": ["Tablet Controller", "HD", "Multiplayer", "Nintendo", "Disc"],
+        "players": "1-4"
+    },
+    "virtualboy": {
+        "name": "Nintendo Virtual Boy",
+        "tags": ["3D", "Monochrome", "Experimental", "Nintendo", "Cartridge"],
+        "players": "1"
+    },
+    "psx": {
+        "name": "PlayStation",
+        "tags": ["CD", "3D", "Classic", "Sony", "Disc"],
+        "players": "1-2"
+    },
+    "ps2": {
+        "name": "PlayStation 2",
+        "tags": ["DVD", "3D", "Best-selling", "Sony", "Disc"],
+        "players": "1-4"
+    },
+    "ps3": {
+        "name": "PlayStation 3",
+        "tags": ["Blu-ray", "HD", "Online", "Sony", "Disc"],
+        "players": "1-4"
+    },
+    "megadrive": {
+        "name": "Sega Mega Drive",
+        "tags": ["16-bit", "Retro", "Classic", "Sega", "Cartridge"],
+        "players": "1-2"
+    },
+    "mastersystem": {
+        "name": "Sega Master System",
+        "tags": ["8-bit", "Retro", "Classic", "Sega", "Cartridge"],
+        "players": "1-2"
+    },
+    "saturn": {
+        "name": "Sega Saturn",
+        "tags": ["CD", "3D", "Arcade", "Sega", "Disc"],
+        "players": "1-2"
+    },
+    "dreamcast": {
+        "name": "Sega Dreamcast",
+        "tags": ["CD", "Online", "Innovative", "Sega", "Disc"],
+        "players": "1-4"
+    },
+    "gamegear": {
+        "name": "Sega Game Gear",
+        "tags": ["Handheld", "Color", "Retro", "Sega", "Cartridge"],
+        "players": "1"
+    },
+    "pcengine": {
+        "name": "PC Engine",
+        "tags": ["TurboGrafx", "16-bit", "Classic", "NEC", "Cartridge"],
+        "players": "1-2"
+    }
+}
